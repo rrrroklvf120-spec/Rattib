@@ -1,0 +1,8 @@
+{
+  "name": "رَتّب",
+  "short_name": "رَتّب",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f11",
+  "theme_color": "#0f0f11"
+}
